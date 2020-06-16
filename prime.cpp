@@ -43,7 +43,7 @@ int isPrime(int num) {
 
 int main(){
        int input;
-       cout << "Enter a number\n" << endl;
+       cout << "Enter a number..." << endl;
        cin >> input;
        isPrime(input);
 
