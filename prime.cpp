@@ -7,6 +7,7 @@
    Written by: Hemanya Sharma
    The Prime Number Checker (TPNC)
    Copyright (C) 2020  Hemanya Sharma
+   
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
    the Free Software Foundation, either version 3 of the License, or
@@ -17,6 +18,7 @@
    GNU General Public License for more details.
    You should have received a copy of the GNU General Public License
    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+   
    Please contribute to this by reporting bugs and making it better....
 **/
 
